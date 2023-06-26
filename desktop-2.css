@@ -1,0 +1,121 @@
+.caption1 {
+  position: absolute;
+  top: 409px;
+  left: 633px;
+  font-weight: 500;
+  font-family: var(--body-paragraph-lead);
+  display: inline-block;
+  width: 170px;
+  height: 43px;
+}
+.button-next-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xl);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.25),
+    rgba(255, 255, 255, 0.29) 0.01%,
+    #fff 0.02%,
+    #9747ff
+  );
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+}
+.button-next1 {
+  position: absolute;
+  top: 612px;
+  left: 608px;
+  backdrop-filter: blur(2px);
+  width: 224px;
+  height: 77px;
+}
+.submit {
+  position: absolute;
+  top: 629px;
+  left: 671px;
+  font-size: 26px;
+  color: var(--white);
+  display: inline-block;
+  width: 94.77px;
+  height: 32.77px;
+  cursor: pointer;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 2.83%;
+  width: 1.04%;
+  top: 62.11%;
+  right: 43.19%;
+  bottom: 35.06%;
+  left: 55.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input-reg-number-item {
+  position: absolute;
+  height: 97.14%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 2.86%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.vector-icon7,
+.your-registration-number1 {
+  position: absolute;
+  top: 22.86%;
+  left: 15.11%;
+}
+.vector-icon7 {
+  height: 37.14%;
+  width: 6.47%;
+  top: 31.43%;
+  right: 88.49%;
+  bottom: 31.43%;
+  left: 5.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input-reg-number1 {
+  position: absolute;
+  top: 488px;
+  left: 511px;
+  width: 417px;
+  height: 70px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.vector-icon8 {
+  position: absolute;
+  height: 5.57%;
+  width: 2.85%;
+  top: 4.59%;
+  right: 93.96%;
+  bottom: 89.84%;
+  left: 3.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.desktop-21 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--theme-color-grey-4);
+  font-family: var(--font-poppins);
+}
